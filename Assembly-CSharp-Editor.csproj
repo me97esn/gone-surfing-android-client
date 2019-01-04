@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{9D7379F6-E84F-F055-8D7B-6CECD0095D02}</ProjectGuid>
+    <ProjectGuid>{B3FAD356-D657-F814-376C-6945A1F0042E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -67,16 +67,16 @@
     <Compile Include="Assets\Easy WiFi Controller\Scripts\Core\Editor\EasyWiFiMenu.cs" />
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Editor\ReporterEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity 2018.2.8/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -372,7 +372,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{C9469E81-E0BB-EE78-69CD-411997266AC9}</Project>
+      <Project>{8EB193A1-EF4D-75F5-4BAA-5940F2805413}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

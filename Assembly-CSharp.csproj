@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{C9469E81-E0BB-EE78-69CD-411997266AC9}</ProjectGuid>
+    <ProjectGuid>{8EB193A1-EF4D-75F5-4BAA-5940F2805413}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -181,16 +181,16 @@
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Test\TestReporter.cs" />
     <None Include="Assets\StreamingAssets\build_info.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-phone-client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity 2018.2.8/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
