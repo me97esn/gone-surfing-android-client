@@ -145,12 +145,12 @@
     <Compile Include="Assets\Easy WiFi Controller\Scripts\ServerControllers\StandardJoystickServerController.cs" />
     <Compile Include="Assets\Easy WiFi Controller\Scripts\ServerControllers\StandardSliderServerController.cs" />
     <Compile Include="Assets\Easy WiFi Controller\Scripts\ServerControllers\StandardTouchpadServerController.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\LightControl.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\MagneticFieldCamera.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\MinimalSensorCamera.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\MoveByLinearAcc.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\SpaceShipControl.cs" />
-    <Compile Include="Assets\GyroDroid\scenes\SampleScripts\TurntableSensorCamera.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\LightControl.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\MagneticFieldCamera.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\MinimalSensorCamera.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\MoveByLinearAcc.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\SpaceShipControl.cs" />
+    <Compile Include="Assets\GyroDroid\SampleScripts\TurntableSensorCamera.cs" />
     <Compile Include="Assets\GyroDroid\Scripts\Debug\SensorStatistics.cs" />
     <Compile Include="Assets\GyroDroid\Scripts\Devices\SensorDeviceAndroid.cs" />
     <Compile Include="Assets\GyroDroid\Scripts\Devices\SensorDeviceIPhone.cs" />
@@ -180,6 +180,8 @@
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\ReporterMessageReceiver.cs" />
     <Compile Include="Assets\Unity-Logs-Viewer\Reporter\Test\TestReporter.cs" />
     <None Include="Assets\StreamingAssets\build_info.txt" />
+    <None Include="Assets\GyroDroid-minimal-README.txt" />
+    <None Include="Assets\GyroDroid\ReadMe-5.3.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/emilsandin/Documents/workspace/git/gone-surfing-android-client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
